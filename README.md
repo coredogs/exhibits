@@ -7,14 +7,14 @@ Uses SQLite. The DB is in the db dir, and can be version controlled.
 
 Tasks: 
 
-1. Prep that database.
+1. Prep the database.
+
+(There are utilities to make this easier.)
 
 * Go over the test scripts: create_db, add_test_data, query_test_data.
 * Choose an exhibit domain. Art, cars, whatever. 
 * Describe 6 exhibits. For each: name, description, images.
 * Add 6 records to the exhibits table.
-
-There are utilities to make this easier.
 
 2. Add the Puppy MVC library.
 
