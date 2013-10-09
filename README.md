@@ -7,7 +7,7 @@ Uses SQLite. The DB is in the db dir, and can be version controlled.
 
 Tasks: 
 
-1. Prep the database.
+### Prep the database.
 
 (There are utilities to make this easier.)
 
@@ -16,9 +16,9 @@ Tasks:
 * Describe 6 exhibits. For each: name, description, images.
 * Add 6 records to the exhibits table.
 
-2. Add the Puppy MVC library.
+### Add the Puppy MVC library.
 
-3. Write two scripts. 
+### Write two scripts. 
 
 * URL command: exhibits. Returns id, name and thumbnail for every exhibit, 
 sorted by name.
